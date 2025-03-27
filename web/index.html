@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>High Availability OS for Critical Systems</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>High Availability Operating Systems for Critical Systems</h1>
+        <!-- <p>By Neera</p> -->
+    </header>
+
+    <section id="intro">
+        <h2>Introduction</h2>
+        <p>This project simulates a high-availability operating system designed for critical applications—like hospital heart monitors or flight control systems—where failure isn’t an option. Built with Python, it ensures processes keep running by detecting failures and recovering automatically.</p>
+    </section>
+
+    <section id="features">
+        <h2>Features</h2>
+        <ul>
+            <li><strong>Process Management:</strong> Runs critical tasks (e.g., "HeartMonitor") as separate processes.</li>
+            <li><strong>Fault Tolerance:</strong> Detects failures (e.g., timeouts) and switches to backups or restarts processes.</li>
+            <li><strong>Monitoring Dashboard:</strong> Displays real-time status, CPU usage, and failure alerts in a GUI.</li>
+            <li><strong>Logging:</strong> Records failures to a log file for analysis.</li>
+        </ul>
+    </section>
+
+    <section id="how-to-run">
+        <h2>How to Run</h2>
+        <p>Follow these steps to start the system from this webpage:</p>
+        <ol>
+            <li><strong>Start the Server:</strong> Open a terminal and run:
+                <pre>cd C:\Users\neera\OneDrive\Desktop\New folder\osproject\src
+python main.py</pre>
+                <p>You’ll see: <code>* Running on http://127.0.0.1:5000</code>. Keep it running.</p>
+            </li>
+            <li><strong>Launch the System:</strong> Click below to start the system—a new window will open with the GUI!</li>
+        </ol>
+        <button onclick="runSystem()">Run the System</button>
+        <p id="run-status">Status: Waiting to start (ensure the server is running at http://127.0.0.1:5000)...</p>
+        <p><strong>Alternatively, in a terminal:</strong></p>
+        <ol>
+            <li>Navigate to <code>src/</code>:
+                <pre>cd C:\Users\neera\OneDrive\Desktop\New folder\osproject\src</pre>
+            </li>
+            <li>Run: <pre>python start_system.py</pre></li>
+            <li>Stop with <code>Ctrl+C</code> or close the GUI.</li>
+        </ol>
+    </section>
+
+    <section id="output">
+        <h2>Sample Output</h2>
+        <p>Here’s what you’ll see when you run it:</p>
+        <button onclick="toggleOutput()">Show/Hide Terminal Output</button>
+        <pre id="terminal-output" class="hidden">
+Process for HeartMonitor started with PID 10792
+Backup process for HeartMonitor started with PID 21720
+Starting system monitoring...
+Starting HeartMonitor...
+HeartMonitor is running...
+Starting HeartMonitor_Backup...
+HeartMonitor_Backup is running...
+Simulating delay for HeartMonitor...
+Timeout detected: HeartMonitor hasn’t responded in 5 seconds.
+Logged: 2025-03-25 14:03:15 - Process 'HeartMonitor' failed: Timeout or crash detected
+Switching to backup for HeartMonitor...
+Recovery successful: Backup activated.
+FAILURE DETECTED: Handling simulated failure...
+Logged: 2025-03-25 14:03:16 - Process 'HeartMonitor' failed: Simulated failure
+[On Ctrl+C:]
+Caught Ctrl+C, shutting down...
+HeartMonitor shutting down gracefully...
+HeartMonitor_Backup shutting down gracefully...
+        </pre>
+        <p><strong>GUI:</strong> Shows uptime, CPU usage, process status, and alerts. See the screenshot below.</p>
+        <img src="./oas.png" alt="Dashboard Screenshot" class="screenshot">
+    </section>
+
+    <!-- <footer>
+        <p>Presented on March , 2025</p>
+    </footer> -->
+
+    <script src="script.js"></script>
+</body>
+</html>

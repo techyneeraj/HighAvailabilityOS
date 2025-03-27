@@ -1,0 +1,132 @@
+2025-03-25 13:33:46 - Process 'Contention_0' failed: Contention test
+2025-03-25 13:33:46 - Process 'Contention_1' failed: Contention test
+2025-03-25 13:33:46 - Process 'Contention_2' failed: Contention test
+2025-03-25 13:33:46 - Process 'Contention_3' failed: Contention test
+2025-03-25 13:33:46 - Process 'Contention_4' failed: Contention test
+2025-03-25 13:33:46 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:34:02 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:34:04 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:34:12 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:34:24 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:34:46 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:34:51 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:34:59 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:35:09 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:35:15 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:35:23 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:35:25 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:35:27 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:35:33 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:35:43 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:35:47 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:35:55 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:36:05 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:36:13 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:36:15 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:36:17 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:36:19 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:36:21 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:36:31 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:36:47 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:36:59 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:37:15 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:37:17 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:37:23 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:37:25 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:37:33 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:37:45 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:37:55 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:37:57 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:38:07 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:38:11 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:38:13 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:38:21 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:38:31 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:38:33 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:38:41 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:38:57 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:39:01 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:39:03 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:39:05 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:40:10 - Process 'Contention_0' failed: Contention test
+2025-03-25 13:40:10 - Process 'Contention_1' failed: Contention test
+2025-03-25 13:40:10 - Process 'Contention_2' failed: Contention test
+2025-03-25 13:40:11 - Process 'Contention_3' failed: Contention test
+2025-03-25 13:40:11 - Process 'Contention_4' failed: Contention test
+2025-03-25 13:40:12 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:40:16 - Process 'FlightControl' failed: Timeout or crash detected
+2025-03-25 13:40:18 - Process 'FlightControl' failed: Timeout or crash detected
+2025-03-25 13:40:18 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:40:20 - Process 'FlightControl' failed: Timeout or crash detected
+2025-03-25 13:40:22 - Process 'FlightControl' failed: Timeout or crash detected
+2025-03-25 13:40:24 - Process 'FlightControl' failed: Timeout or crash detected
+2025-03-25 13:40:26 - Process 'FlightControl' failed: Timeout or crash detected
+2025-03-25 13:40:28 - Process 'FlightControl' failed: Timeout or crash detected
+2025-03-25 13:40:30 - Process 'FlightControl' failed: Timeout or crash detected
+2025-03-25 13:40:32 - Process 'FlightControl' failed: Timeout or crash detected
+2025-03-25 13:40:32 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:40:34 - Process 'FlightControl' failed: Timeout or crash detected
+2025-03-25 13:40:36 - Process 'FlightControl' failed: Timeout or crash detected
+2025-03-25 13:40:36 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:40:38 - Process 'FlightControl' failed: Timeout or crash detected
+2025-03-25 13:40:40 - Process 'FlightControl' failed: Timeout or crash detected
+2025-03-25 13:40:42 - Process 'FlightControl' failed: Timeout or crash detected
+2025-03-25 13:40:44 - Process 'FlightControl' failed: Timeout or crash detected
+2025-03-25 13:40:46 - Process 'FlightControl' failed: Timeout or crash detected
+2025-03-25 13:40:48 - Process 'FlightControl' failed: Timeout or crash detected
+2025-03-25 13:40:50 - Process 'FlightControl' failed: Timeout or crash detected
+2025-03-25 13:40:52 - Process 'FlightControl' failed: Timeout or crash detected
+2025-03-25 13:40:52 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:40:54 - Process 'FlightControl' failed: Timeout or crash detected
+2025-03-25 13:40:56 - Process 'FlightControl' failed: Timeout or crash detected
+2025-03-25 13:40:58 - Process 'FlightControl' failed: Timeout or crash detected
+2025-03-25 13:40:58 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:41:00 - Process 'FlightControl' failed: Timeout or crash detected
+2025-03-25 13:41:02 - Process 'FlightControl' failed: Timeout or crash detected
+2025-03-25 13:41:04 - Process 'FlightControl' failed: Timeout or crash detected
+2025-03-25 13:42:03 - Process 'HeartMonitor' failed: Timeout or crash detected
+2025-03-25 13:45:49 - Process 'HeartMonitor' failed: Timeout or crash detected
+2025-03-25 13:45:57 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:46:01 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:46:07 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:47:43 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:47:45 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:49:29 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 13:49:33 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 15:38:57 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-25 15:39:05 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-26 09:28:41 - Process 'HeartMonitor' failed: Timeout or crash detected
+2025-03-26 09:28:45 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-26 09:28:59 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-26 09:29:05 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-26 09:29:13 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-26 09:29:23 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-26 10:08:47 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-26 10:08:55 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-26 11:59:31 - Process 'HeartMonitor' failed: Timeout or crash detected
+2025-03-26 11:59:33 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-26 11:59:41 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-26 12:00:33 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-26 12:00:39 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-26 12:00:53 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-26 12:00:59 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-26 12:01:05 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-26 13:23:04 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-26 13:26:22 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-26 13:26:30 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-26 13:26:34 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-26 13:26:48 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-26 19:25:25 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-26 19:25:45 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-26 19:28:11 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-26 19:28:36 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-27 11:14:33 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-27 11:14:51 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-27 13:01:29 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-27 13:01:33 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-27 13:01:40 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-27 15:50:21 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-27 15:50:27 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-27 15:50:30 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-27 15:50:32 - Process 'HeartMonitor' failed: Simulated failure
+2025-03-27 15:50:40 - Process 'HeartMonitor' failed: Simulated failure
